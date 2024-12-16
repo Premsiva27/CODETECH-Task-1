@@ -10,6 +10,8 @@ Duration: NOVEMBER to DECEMBER
 
 Mentore: Neela Santhosh Kumar
 
+
+
 OVERVIEW OF THE PROJECT:
 
 Project: BMI(BODY MASS INDEX)
